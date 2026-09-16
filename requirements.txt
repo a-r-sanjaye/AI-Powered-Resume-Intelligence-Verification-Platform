@@ -1,0 +1,15 @@
+flask
+flask-sqlalchemy
+python-dotenv
+pdfplumber
+python-docx
+pytesseract
+Pillow
+spacy
+scikit-learn
+pandas
+numpy
+sentence-transformers
+requests
+beautifulsoup4
+google-genai
